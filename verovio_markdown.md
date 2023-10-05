@@ -5,7 +5,7 @@ Please note, the score will **NOT** appear when viewed from github, instead you 
 
 # My Score- Mozart Changes
 
-{% 'data/uncompressed mozart changes 2- Voice_Oohs.mei' %}
+{% 'data/uncompressed mozart changes 2- Voice_Oohs.mei'.html %}
 
 # Next heading
 
