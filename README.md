@@ -9,4 +9,4 @@
 
 [week5.md](week5.md)(mozart changes 21.ipynb) [mozart changes 2.mscz](mozart changes 2.mscz) how to describe all the data we have collected thusfar and how to present it
 
-[mozart changes2.mscz.md](mozart changes 2.mscz.md)
+[mozart changes2.md](mozart changes 2.md)
