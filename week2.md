@@ -7,4 +7,5 @@ I worked on the first 16 bars of music. Musescore actually did a fairly good job
 
 <img width="705" alt="Screenshot 2023-11-28 at 17 39 28" src="https://github.com/2578428b/MCA-2023/assets/146018791/2e6d79bc-8749-44d3-8213-53951210506f">
 
-![Screenshot 2023-11-28 at 17 42 27](https://github.com/2578428b/MCA-2023/assets/146018791/dff70b6e-9488-4d00-b63f-663c3642e5f4)
+
+![Screenshot 2023-11-28 at 17 42 27](https://github.com/2578428b/MCA-2023/assets/146018791/b7ceb5da-a5c5-4cef-9358-1c2476a8f8c9)
