@@ -1,6 +1,6 @@
 # MCA
 
-<font color="green"> Some green text </font>
+<span style="color: green"> Some green text </span>
 
 [week1.md](wekk1.md) our first week looking at the basics of music notation and music data
 
