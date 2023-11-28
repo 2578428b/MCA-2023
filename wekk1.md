@@ -1,4 +1,6 @@
 ##
+[week 1](week1.md) [week 2](week2.md
+
 3 Types of music data
 
 •	Spectrogram
@@ -16,3 +18,6 @@
 - shown as names and dates on either pages like spotify or wikipedia
 - nothing overly complicated about this type of data, easy to read and obtain from multiple platforms, you dont need any skills to read this sort of data
 - data is raw and unchanged
+
+
+  
