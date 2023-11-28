@@ -4,3 +4,9 @@
 
 
 ![scat](https://github.com/2578428b/MCA-2023/assets/146018791/afdcf27e-20a5-4b38-bb27-c8140e2165ef)
+
+
+![sc4t](https://github.com/2578428b/MCA-2023/assets/146018791/090084e7-6c42-4a75-bf6d-4e05896cf238)
+
+
+![scaat](https://github.com/2578428b/MCA-2023/assets/146018791/bee0f313-ed6e-46d2-89e2-510d323551c5)
