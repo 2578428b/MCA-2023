@@ -12,4 +12,4 @@ The top image is the raw piece of music I put into musescore to be converted, th
 
 ![Screenshot 2023-11-28 at 17 42 27](https://github.com/2578428b/MCA-2023/assets/146018791/b7ceb5da-a5c5-4cef-9358-1c2476a8f8c9)
 
-*jump to [week 3](week3.md) to see the edited version of the piece with certain bits of data musescore missed out, that I have added back in
+(*jump to [week 3](week3.md) to see the edited version of the piece with certain bits of data musescore missed out, that I have added back in*)
