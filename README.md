@@ -7,6 +7,16 @@
 
 [week3.md](week3.md) working from week 2 and looking more at pieces as a whole and musical data and how these programs we used in the first 2 weeks presented this data
 
-[week5.md](week5.md) [mozart changes 21.ipynb](mozart changes 21.ipynb) how to describe all the data we have collected thusfar and how to present it
+[week 4](week4.md) 
 
-[mozart changes2.md](mozart changes 2.md)
+[week 5](week5.md)
+
+[week 6](week6.md)
+
+[week7](week7.d) 
+
+[week 8](week8.md) 
+
+[week 9](week9.md)
+
+[week 10](week10.md)  
