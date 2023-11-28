@@ -9,7 +9,7 @@ __*Relevant to Mozart piece*__
 - IMSLP is very good for all types of data for people researching pieces and studying pieces, also giving older versions of songs so you can find unnremastered versions of songs. It also gives most or all parts of the score which in itself contains the metadate of the specific piece
 
 - My piece of music from the raw data site included a whole bunch of data, as seen below, the title, composer, where it was composed as well as the number of the book the piece is. As well it included musical data such as timbre, dynamics and tempo. These were however lost when I took the piece into musescore. 
-- 
+  
 
+![Screenshot 2023-11-28 at 17 08 50](https://github.com/2578428b/MCA-2023/assets/146018791/cc21335f-d804-4bc9-943d-d4c19b1b1a16)
 
-<img width="1294" alt="Screenshot 2023-11-28 at 17 08 50" src="https://github.com/2578428b/MCA-2023/assets/146018791/f008d0f5-2767-4604-a6d0-452aa2ee45ed">
