@@ -4,11 +4,12 @@
 
 __*Categories of Data*__
 __*Relevant to Mozart piece*__
-- Performer and composer
-- Youtube is very basic in its metadata, only gives name and length of piece
+- Youtube is very basic in its metadata, only gives name and length of piece at best depending on who uploaded the piece of music 
 - Metadata bankloaf gives a lot more data such as danceability and energy which is less relevant than other pieces such as key signature and time signatures. As well as energy levels and variance of emotions which could help with a performer knowing how to perform the piece  or know more about the piece but not so much for people wanting to study the piece.
 - IMSLP is very good for all types of data for people researching pieces and studying pieces, also giving older versions of songs so you can find unnremastered versions of songs. It also gives most or all parts of the score which in itself contains the metadate of the specific piece
 
-[mozart changes2.md](mozart changes 2.md)
+- My piece of music from the raw data site included a whole bunch of data, as seen below, the title, composer, where it was composed as well as the number of the book the piece is. As well it included musical data such as timbre, dynamics and tempo. These were however lost when I took the piece into musescore. 
+- 
 
-[
+
+<img width="1294" alt="Screenshot 2023-11-28 at 17 08 50" src="https://github.com/2578428b/MCA-2023/assets/146018791/f008d0f5-2767-4604-a6d0-452aa2ee45ed">
