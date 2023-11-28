@@ -15,8 +15,8 @@
 
 [week7](week7.d) looking more into the curational chalenges withing music using the metadata from week 5
 
-[week 8](week8.md) representing music data a
+[week 8](week8.md) representing music data and analysing tracks on SonicVisuliser
 
-[week 9](week9.md)
+[week 9](week9.md) audio features and describing music using histograms and spectrograms on Sonic Visuliser
 
-[week 10](week10.md)  
+[week 10](week10.md) continuing from week 11, looking more in depth into music data analysis through Sonic Visuliser  
