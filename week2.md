@@ -1,7 +1,7 @@
 
 
 # Week 2
-[week 1](week1.md) [week 2](week2.md) [week 3](week3.md)[week 4](week4.md) [week 5](week5.md)  [week7](week7.d) [week 8](week8.md) [week 9](week9.md) [week 10](week10.md)  
+[week 1](week1.md)  [week 2](week2.md)   [week 3](week3.md)   [week 4](week4.md)  [week 5](week5.md)  [week7](week7.d)  [week 8](week8.md) [week 9](week9.md)   [week 10](week10.md)  
 
 I worked on the first 16 bars of music. Musescore actually did a fairly good job at correctly scanning the origional sheet music of the Sonata No.11, however there were a couple of regular mishaps it got wrong throughout the piece. The first one of this is grace notes, it would either not add them at all or think the notes were an accidentals, this would then change the time signature of each bar which I had to correct. As well it naturally missed out some dynamic symbols but not all of them which is interesting. At the end of bar 5, Musescore changed the Clef of the second voice , from the treble clef to bass clef, meaning I had to go through and change all the notes of the bars until Musescore decided to add in a treble clef randomly at the end of bar 11. In our group conversation we also saw this in the pieces we did where grace notes specifically weren't accounted for in Musescore's scan of the piece and would either add in accidentals or just add in random notes. As well in both my piece and the pieces in our group we found it would mess up the instruments that were being played, naming all the instruments in my piece as 'voice' when originally they are named as "Violin 1" "Violin 2" and "Bass or Organ". Unfortunatly due to the time took for the website to work, we never got a group piece to work on but we discussed our findings together on our individual pieces. 
 
