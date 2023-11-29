@@ -6,7 +6,7 @@
 
 # My Score- Mozart Changes
 
-{% 'data[uncompressed mozart changes 2- Voice_Oohs].mei'.html %}
+[uncompressed mozart changes 2- Voice_Oohs.mei][% 'data(uncompressed mozart changes 2- Voice_Oohs].mei'.html %)
 
 # My findings
 
