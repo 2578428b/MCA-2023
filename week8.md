@@ -7,4 +7,11 @@ Requiem | Symphony No.4 | Fantasia
 --------|---------------|---------
 Academy of Ancient Music, Choir of Kings College  |  BerlinerPhilharmonkier  |  Fazil Say
 W.A. Mozart | W.A Mozart | W.A Mozart|
+P-Kings College, Cambridge | Berlin Philharmonie 2013 | Fazil Say, Warner Classics 2022
+Classical Mass | Classical Symphony | Classical solo piano piece
+YouTube | YouTube | YouTube
+2 channels | 2 Channels | 2 Channels 
+48000 Sample | 48000 Sample | 48000 Sample
+16 bits per sample | 16 bits per sample | 16 bits per sample 
+4:05 Minutes | 3:06 Minutes | 5:38 Minutes
 
