@@ -1,6 +1,6 @@
 # week 8
 
-[week 1](week1.md)  [week 2](week2.md)  [week 3](week3.md)  [week 4](week4.md)  [week 5](week5.md)  [week7](week7.d)  [week 8](week8.md)  [week 9](week9.md)  [week 10](week10.md)  
+[week 1](week1.md)  [week 2](week2.md)  [week 3](week3.md)  [week 4](week4.md)  [week 5](week5.md)  [week7](week7.md)  [week 8](week8.md)  [week 9](week9.md)  [week 10](week10.md)  
 
 
 This week we were asked to choose 3 pieces which related to our musical theme, mine was Mozart so I decided to choose 3 of his pieces. We then had to analyse the pieces and create a table displaying the most important non-technical metadata for each individual piece, The list of information we had to find were:
