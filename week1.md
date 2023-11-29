@@ -11,12 +11,12 @@
 - contains pitch and sound levels
 - it is colour coded like weather on a map but doesn’t allow someone to completely replicate what its displaying  
 - data is described by colours, usually displayed on a key by the side
-- 
+  
 •	Notation
 - shown almost as a graph
 - you have to be knowledgeable about music, musical notes and muscical sayings to know how to read and write music notation
 - data is described by notes that correlate to notes on an instrument such as voice, piano. Each note on the stave correlates and exact note on the chosen instrument
-- 
+  
 •Music metadata eg artist name song name date of release
 - shown as names and dates on either pages like spotify or wikipedia
 - nothing overly complicated about this type of data, easy to read and obtain from multiple platforms, you dont need any skills to read this sort of data
