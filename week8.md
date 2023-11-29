@@ -16,7 +16,7 @@ This week we were asked to choose 3 pieces which related to our musical theme, m
 - Bits per second
 - Duration
 
-We had to add our pieces into Sonic Visualiser to find some information such as 'Number of Channels' and 'Sample rate'. The information is listed below. 
+We had to add our pieces into Sonic Visualiser to find some information such as 'Number of Channels' and 'Sample rate'. The information is listed below as well as a link to each song I chose from YouTube. 
   
 
 Requiem K 626 in D Minor | Symphony No.40 | Fantasia No.3 in D Minor
@@ -30,5 +30,5 @@ YouTube | YouTube | YouTube
 48000 Sample | 48000 Sample | 48000 Sample
 16 bits per sample | 16 bits per sample | 16 bits per sample 
 4:05 Minutes | 3:06 Minutes | 5:38 Minutes
-[Requiem](https://www.youtube.com/watch?v=M1HZk2vvvCk)
-
+[Requiem](https://www.youtube.com/watch?v=M1HZk2vvvCk) | [Symphony] 
+(https://www.youtube.com/watch?v=0sGqkMU-mGQ) | [Fantasia](https://www.youtube.com/watch?v=1V0rGf9PjzI) |
