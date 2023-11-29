@@ -4,7 +4,7 @@
 
 *This week we had to edit the scores we had taken from musescore in Verovio and add back in any data that had been lost in the transfer*
 
-# My Score- Mozart Changes
+# Mozart Changes Verovio website
 
 [uncompressed mozart changes 2- Voice_Oohs.mei](https://mei-friend.mdw.ac.at/#)
 # My findings
