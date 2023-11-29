@@ -30,5 +30,5 @@ YouTube | YouTube | YouTube
 48000 Sample | 48000 Sample | 48000 Sample
 16 bits per sample | 16 bits per sample | 16 bits per sample 
 4:05 Minutes | 3:06 Minutes | 5:38 Minutes
-[Requiem](https://www.youtube.com/watch?v=M1HZk2vvvCk)https://www.youtube.com/watch?v=M1HZk2vvvCk |
+[Requiem](https://www.youtube.com/watch?v=M1HZk2vvvCk)
 
