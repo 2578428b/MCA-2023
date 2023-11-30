@@ -22,5 +22,6 @@
 - nothing overly complicated about this type of data, easy to read and obtain from multiple platforms, you dont need any skills to read this sort of data
 - data is raw and unchanged
 
+*We also then set up our GitHub pages*
 
   
