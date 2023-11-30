@@ -5,8 +5,8 @@
 *This week we had to edit the scores we had taken from musescore in Verovio and add back in any data that had been lost in the transfer*
 
 # Mozart Changes Verovio website
+This is a link to my piece before I edited it and the photo is what it looked like afterwards
 
-[uncompressed mozart changes 2- Voice_Oohs.mei](https://mei-friend.mdw.ac.at/#)
 [mozart symphony](https://2578428b.github.io/MCA-2023/verovio.html)
 
 # My findings
