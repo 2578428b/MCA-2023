@@ -14,7 +14,7 @@
 
 [week 6](week6.md) reading week
 
-[week7](week7.md) looking more into the curational chalenges withing music using the metadata from week 5
+[week 7](week7.md) looking more into the curational chalenges withing music using the metadata from week 5
 
 [week 8](week8.md) representing music data and analysing tracks on SonicVisuliser
 
