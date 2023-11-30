@@ -12,7 +12,7 @@
 
 [week 5](week5.md) *looking at how to describe basic music data methods and digital content using Verovio editor*
 
-# Week 6
+*Reading Week*
 
 [week 7](week7.md) *looking more into the curational chalenges withing music using the metadata from week 5*
 
