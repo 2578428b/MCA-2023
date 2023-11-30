@@ -1,4 +1,4 @@
-# MCA
+# Music Curation and Analytics potfolio
 
 
 
