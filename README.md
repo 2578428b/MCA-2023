@@ -2,7 +2,7 @@
 
 
 
-[week1.md](wekk1.md) our first week looking at the basics of music notation and music data
+[week1.md](week1.md) our first week looking at the basics of music notation and music data
 
 [week2.md](week2.md) the second week in which we looked more at music notation and how different programs show notation in different ways
 
