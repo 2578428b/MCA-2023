@@ -11,3 +11,31 @@ For this week we used sonicvisualiser to show more data of our chosen pieces. I 
 
 
 ![REQUIE,3](https://github.com/2578428b/MCA-2023/assets/146018791/2d093e2f-cc21-4599-a85f-99ca2fe2243f)
+
+requiem
+
+![sysmph4](https://github.com/2578428b/MCA-2023/assets/146018791/761305b6-7e6d-46ab-a3c5-d9fdaf475cfa)
+
+
+![symph3](https://github.com/2578428b/MCA-2023/assets/146018791/ed6b96b9-bc68-4b6d-8ccf-0308c0fead73)
+
+
+![symph](https://github.com/2578428b/MCA-2023/assets/146018791/9f059789-8eb6-492d-8955-ec455501002e)
+
+symph
+
+
+![fant](https://github.com/2578428b/MCA-2023/assets/146018791/878b22e3-ad5e-4996-bb23-4b375f5afac6)
+
+![fant2](https://github.com/2578428b/MCA-2023/assets/146018791/b339850a-ebfb-4521-85c2-f598775b78f9)
+
+
+
+fant
+
+
+
+
+
+
+
