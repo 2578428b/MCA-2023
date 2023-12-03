@@ -29,6 +29,8 @@ symph
 
 ![fant2](https://github.com/2578428b/MCA-2023/assets/146018791/b339850a-ebfb-4521-85c2-f598775b78f9)
 
+![fant4 (1)](https://github.com/2578428b/MCA-2023/assets/146018791/fdef8a7b-2389-4d9c-9eda-53c4c78c0967)
+
 
 
 fant
