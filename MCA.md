@@ -1,6 +1,8 @@
 # Music Curation and Analytics potfolio
 
 
+*A look in to music curation and an alytics with the theme of Mozart, using him Symphony No.11 for Violin, Organ and Bass
+
 
 [week1](week1.md) *our first week looking at the basics of music notation and music data*
 
